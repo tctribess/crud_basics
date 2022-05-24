@@ -13,4 +13,5 @@ Tecnologias usadas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=25px />
 
 Preview:
+<br>
 <img src="images/preview-app.PNG" height=" 250px"></img>
