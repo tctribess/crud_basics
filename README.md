@@ -1,10 +1,9 @@
 # crud_basics
 
-Aplicação guiada, apresentando os conceitos básicos de CRUD (Create, Read, Update, Delete)
+Aplicação [guiada](https://www.freecodecamp.org/news/learn-crud-operations-in-javascript-by-building-todo-app/), apresentando os conceitos básicos de CRUD (Create, Read, Update, Delete)
 <br>
 Tutorial dividido em 2 aplicações, esta é a primeira.
 <br>
-Link: https://www.freecodecamp.org/news/learn-crud-operations-in-javascript-by-building-todo-app/
 
 Tecnologias usadas:
 <br>
